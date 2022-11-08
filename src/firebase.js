@@ -7,7 +7,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "API_KEY",
+  apiKey: "API_KEY",//change as required
   authDomain: "chatorium-9b2e8.firebaseapp.com",
   projectId: "chatorium-9b2e8",
   storageBucket: "chatorium-9b2e8.appspot.com",
