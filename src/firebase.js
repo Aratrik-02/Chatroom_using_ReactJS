@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDd406Xz4IUFWbcWWTxnn0bmvCBu0YptVI",
+  apiKey: "API_KEY",
   authDomain: "chatorium-9b2e8.firebaseapp.com",
   projectId: "chatorium-9b2e8",
   storageBucket: "chatorium-9b2e8.appspot.com",
-  messagingSenderId: "577329219778",
-  appId: "1:577329219778:web:7ca0e12ae92addee67135b"
+  messagingSenderId: "SenderID",
+  appId: "AppID"
 };
 
 // Initialize Firebase
